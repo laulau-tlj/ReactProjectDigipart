@@ -1,0 +1,46 @@
+.image {
+    width: max-content;
+}
+
+.text {
+    text-align: center;
+    top:50%;
+    color: white;
+    font-family: "futura-pt-bold", sans-serif ;
+    position: absolute;
+    margin-left: 40%;
+
+}
+.text button {
+    background-color: white;
+    border-style: none;
+    padding: 10px;
+    font-family: "futura-pt", sans-serif ;
+
+}
+.text1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.text2 {
+    font-size: 33px;
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    }
+.product {
+    
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-between;
+
+}
+
+.item {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    /* width: 100%; */
+}

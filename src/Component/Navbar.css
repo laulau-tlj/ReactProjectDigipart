@@ -1,0 +1,32 @@
+
+.navbar {
+    background-color: white;
+    display: flex;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo a {
+    font-family: "futura-pt-bold", sans-serif ;
+}
+
+.icon a {
+    align-items: center;
+    margin-bottom: 1px;
+    margin-right: 2px;
+}
+
+.links {
+    margin: 10px auto;
+}
+
+.links a {
+    font-family: "futura-pt-bold", sans-serif ;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-weight: bold; */
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
