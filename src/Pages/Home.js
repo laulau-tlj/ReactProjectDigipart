@@ -36,6 +36,7 @@ const Home = () => {
                     <div className='item' key={index}>
                         <Product data={item}/>
                     </div>
+                    
                 ))}
                 </div>
                 

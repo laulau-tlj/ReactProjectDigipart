@@ -30,17 +30,18 @@ img {
     max-width: 100%;
     height: auto;
     }
+
 .product {
     
     display: flex;
-    padding: 10px;
-    margin: 10px;
-    justify-content: space-between;
-
+    justify-content: center;
+    overflow: hidden;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .item {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 10px;
-    /* width: 100%; */
+
 }
