@@ -9,21 +9,22 @@
     font-family: "futura-pt-bold", sans-serif ;
     position: absolute;
     margin-left: 40%;
+    
 
 }
 .text button {
     background-color: white;
     border-style: none;
-    padding: 10px;
+    padding: 2%;
     font-family: "futura-pt", sans-serif ;
 
 }
 .text1 {
-    font-size: 40px;
+    font-size: 97%;
     font-weight: bold;
 }
 .text2 {
-    font-size: 33px;
+    font-size: 96%;
     font-weight: bold;
 }
 img {

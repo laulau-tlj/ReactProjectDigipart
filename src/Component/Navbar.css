@@ -1,5 +1,5 @@
 
-.navbar {
+nav {
     background-color: white;
     display: flex;
     margin: 5px;
@@ -8,14 +8,14 @@
 
 }
 
-.logo a {
+.container-fluid a {
     font-family: "futura-pt-bold", sans-serif ;
 }
 
-.icon a {
+.navbar-collapse {
     align-items: center;
-    margin-bottom: 1px;
-    margin-right: 2px;
+    font-family: "futura-pt-bold", sans-serif ;
+    margin-left: 20%;
 }
 
 .links {

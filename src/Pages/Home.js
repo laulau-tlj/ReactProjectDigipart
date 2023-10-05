@@ -7,7 +7,7 @@ import Product from '../Component/Product';
 
 
 const Home = () => {
-    let [data, setData] = useState([]);
+    let [data, setData] = useState([])
     useEffect(() => {
         fetch("https://jmp.digipart.fr/api/category?FromProductNumber=0&ToProductNumber=6&IdCategory=54&IdLang=2")
         .then(res => res.json())
